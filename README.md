@@ -45,16 +45,16 @@ InsightLoop is an AI-powered business intelligence assistant built with Streamli
 📸 Screenshots
 
 > Included in the `/images` folder of the repo. You’ll see:
-- Upload & Preview
-- ![image alt](https://github.com/Adharshveldi/InsightLoop/blob/95b9aac9ad10937ec88ee0460934faa143f90ac6/Upload%26Preview.jpg)
-- Filter and Clean
-- ![image alt](https://github.com/Adharshveldi/InsightLoop/blob/95b9aac9ad10937ec88ee0460934faa143f90ac6/Filter%20Data.jpg)
-- Ask AI
-- ![image alt](https://github.com/Adharshveldi/InsightLoop/blob/95b9aac9ad10937ec88ee0460934faa143f90ac6/Ask%20AI.jpg)
-- Visualize
-- ![image alt](https://github.com/Adharshveldi/InsightLoop/blob/95b9aac9ad10937ec88ee0460934faa143f90ac6/Visualize.jpg)
-- Auto Chart Suggestion
-- ![image alt](https://github.com/Adharshveldi/InsightLoop/blob/95b9aac9ad10937ec88ee0460934faa143f90ac6/Auto%20Chart%20Suggestion.jpg)
+Upload & Preview
+![image alt](https://github.com/Adharshveldi/InsightLoop/blob/95b9aac9ad10937ec88ee0460934faa143f90ac6/Upload%26Preview.jpg)
+Filter and Clean
+![image alt](https://github.com/Adharshveldi/InsightLoop/blob/95b9aac9ad10937ec88ee0460934faa143f90ac6/Filter%20Data.jpg)
+Ask AI
+![image alt](https://github.com/Adharshveldi/InsightLoop/blob/95b9aac9ad10937ec88ee0460934faa143f90ac6/Ask%20AI.jpg)
+Visualize
+![image alt](https://github.com/Adharshveldi/InsightLoop/blob/95b9aac9ad10937ec88ee0460934faa143f90ac6/Visualize.jpg)
+Auto Chart Suggestion
+![image alt](https://github.com/Adharshveldi/InsightLoop/blob/95b9aac9ad10937ec88ee0460934faa143f90ac6/Auto%20Chart%20Suggestion.jpg)
 
 
 📦 Setup Locally
